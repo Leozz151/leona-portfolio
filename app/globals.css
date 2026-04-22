@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  color: #172033;
+  background-image:
+    radial-gradient(circle at 12% 10%, rgba(57, 191, 255, 0.23), transparent 26%),
+    radial-gradient(circle at 88% 18%, rgba(255, 123, 104, 0.22), transparent 24%),
+    radial-gradient(circle at 52% 0%, rgba(111, 211, 255, 0.18), transparent 24%),
+    linear-gradient(180deg, #f7fbff 0%, #f8fbff 45%, #fff5f0 100%);
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.55) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.55) 1px, transparent 1px);
+  background-size: 36px 36px;
+  mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0));
+}
+
+body[data-modal-open="true"] {
+  overflow: hidden;
+}
+
+::selection {
+  background: rgba(31, 120, 255, 0.18);
+}

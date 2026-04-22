@@ -1,0 +1,142 @@
+{
+  "siteTitle": "LeonaLIU",
+  "metaDescription": "科技業產品經理作品集，聚焦教育科技、AR 應用、產品提案與使用者洞察。",
+  "nav": {
+    "projects": "專案",
+    "strengths": "特質",
+    "journey": "歷程",
+    "skills": "技能",
+    "contact": "聯絡",
+    "admin": "後台編輯"
+  },
+  "sectionOrder": [
+    "about",
+    "journey",
+    "projects",
+    "skills",
+    "beyond"
+  ],
+  "hero": {
+    "eyebrow": "#logictistic #creative #action",
+    "englishName": "Leona LIU",
+    "title": "連結科技與教育的產品規劃者，用數據洞察需求，用邏輯落實想像。",
+    "intro": "我希望成為能把教育場景、科技工具與使用者需求真正串起來的產品經理，擅長從研究、觀察與溝通中找出推動產品前進的關鍵。",
+    "primaryLabel": "看深度專案",
+    "primaryHref": "#projects",
+    "secondaryLabel": "下載英文履歷",
+    "secondaryHref": "#contact",
+    "portraitUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=900&q=80",
+    "portraitAlt": "Professional portrait",
+    "quickFacts": [
+      "教育科技與產品規劃",
+      "AR 學習研究與使用者洞察",
+      "產品提案、分析與跨部門溝通"
+    ]
+  },
+  "about": {
+    "title": "關於我：專業特質",
+    "intro": "我不是只想做功能規劃，而是希望用結構化思考與人本觀察，把教育與科技交會處的需求轉成真正可落地的產品方向。",
+    "items": [
+      {
+        "title": "縝密邏輯",
+        "text": "善於從複雜的數據與流程中梳理出解方，例如在碩士研究中分析變因與學習成效，找出真正影響使用者動機的關鍵。"
+      },
+      {
+        "title": "做事俐落",
+        "text": "透過實驗室行政與報帳管理，持續磨練執行效率、細節掌控與任務推進節奏，能把瑣碎工作整理成清楚流程。"
+      },
+      {
+        "title": "正面思維",
+        "text": "面對高壓挑戰時，能把壓力轉成成長動能。像在 104 產品訓練營 Final Pitch 準備過程中，我更學會如何快速調整觀點並與他人對焦。"
+      }
+    ]
+  },
+  "journey": {
+    "title": "成長曲線",
+    "intro": "每個里程碑都在訓練我更像一位產品經理：從研究、提案到行政細節，都在累積定義問題與推進結果的能力。",
+    "items": [
+      {
+        "date": "2026 / 04",
+        "title": "104 產品訓練營",
+        "badge": "Final Pitch / 金色證書",
+        "text": "唯一打入 Final Pitch 的學生，過程中與高階主管討論產品方向，學會在有限時間內提煉問題、組織論點並提升產品思維。"
+      },
+      {
+        "date": "2025 / 12 - 2026",
+        "title": "碩士學位研究",
+        "badge": "AR x English Learning",
+        "text": "專注於 AR 擴增實境與英語學習的跨領域研究，從學習動機、情境設計與互動體驗切入，深化對使用者需求的洞察。"
+      },
+      {
+        "date": "2025 - Present",
+        "title": "實驗室助理",
+        "badge": "Operations / Admin",
+        "text": "在報帳、行政與協調流程中磨練細心度與組織能力，讓我更能理解制度、流程與執行力如何支撐團隊運作。"
+      }
+    ]
+  },
+  "projects": {
+    "title": "深度專案：實戰成果",
+    "intro": "我最想被看見的，不只是做過哪些事情，而是我如何定義問題、建立論點、提出方案，並讓產品想法更靠近真實世界。",
+    "items": [
+      {
+        "metaLeft": "Featured Project 01",
+        "metaRight": "AR Teaching Research",
+        "title": "AR 教學研究：以智慧眼鏡打造情境式英語學習體驗",
+        "text": "探索如何將 AR 智慧眼鏡應用於情境學習，從學習情境設計、互動方式到使用者感受，驗證科技如何提升沉浸感與學習動機。",
+        "bullets": [
+          "研究主題：AR 擴增實境結合英語情境學習",
+          "產品思考：從使用者動機與體驗流程理解教育場景",
+          "亮點素材：可放研究流程圖、場景示意圖與觀察重點"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+        "featured": true
+      },
+      {
+        "metaLeft": "Featured Project 02",
+        "metaRight": "104 Product Proposal",
+        "title": "104 產品提案：從 0 到 1 建立產品構想與 Pitch 邏輯",
+        "text": "完整拆解問題背景、目標族群、假設邏輯與方案設計，將產品概念整理成具說服力的提案，並在 Final Pitch 中與主管深度討論方向。",
+        "bullets": [
+          "問題定義：找出需求與價值主張的核心矛盾",
+          "提案過程：整理使用者、方案與商業脈絡",
+          "最終成果：唯一進入 Final Pitch 的學生"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1200&q=80",
+        "featured": false
+      }
+    ]
+  },
+  "skills": {
+    "title": "核心技能：工具箱",
+    "hardTitle": "硬實力",
+    "softTitle": "軟實力",
+    "hardItems": [
+      "SPSS 數據分析",
+      "產品企劃",
+      "AR 技術理解",
+      "研究設計",
+      "簡報與提案整理"
+    ],
+    "softItems": [
+      "利害關係人溝通",
+      "敏捷應變",
+      "使用者體驗觀察",
+      "結構化表達",
+      "跨領域協作"
+    ]
+  },
+  "beyond": {
+    "title": "生活側寫：數據與優化",
+    "text": "在生活裡，我也會自然地思考「怎麼做會更好」。例如在遊戲《原神》中，我喜歡研究角色屬性配置、關卡節奏與資源配置策略，這種對優化與體驗細節的投入，也延伸到我對產品的理解方式。",
+    "highlight": "我相信產品思維不是只存在於工作裡，而是一種持續觀察、拆解與優化的習慣。"
+  },
+  "contact": {
+    "title": "如果你正在尋找能把教育場景、科技工具與使用者需求串起來的產品人才，我很期待和你聊聊。",
+    "email": "yourname@email.com",
+    "linkedin": "https://www.linkedin.com/",
+    "linkedinLabel": "LinkedIn",
+    "resume": "https://www.notion.so/",
+    "resumeLabel": "下載英文履歷"
+  }
+}
